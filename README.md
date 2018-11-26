@@ -1,2 +1,2 @@
-# deeplearning
-About deeplearning and Machine learning
+# deeplearning-tf
+DeepLearning implement with tensorflow
